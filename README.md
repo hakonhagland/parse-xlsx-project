@@ -3,7 +3,8 @@
 :camel: Open source contribution project :camel:
 
 ## Description
-- The module seems to have been abandoned in 2016, see [this](https://github.com/doy/spreadsheet-parsexlsx/issues/97) issue.
+- The [module](https://github.com/doy/spreadsheet-parsexlsx/pulls)
+  (see also uploaded [CPAN](https://metacpan.org/pod/Spreadsheet::ParseXLSX) module) seems to have been abandoned in 2016, see [this](https://github.com/doy/spreadsheet-parsexlsx/issues/97) issue.
 - Still many contributions and issue have been submitted since that time, so the
 module appears to be important for many.
 
