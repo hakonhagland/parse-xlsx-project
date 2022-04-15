@@ -5,7 +5,7 @@
 ## Description
 - The [module](https://github.com/doy/spreadsheet-parsexlsx/pulls)
   (see also uploaded [CPAN](https://metacpan.org/pod/Spreadsheet::ParseXLSX) module) seems to have been abandoned in 2016, see [this](https://github.com/doy/spreadsheet-parsexlsx/issues/97) issue.
-- Still many contributions and issue have been submitted since that time, so the
+- Still many [contributions](https://github.com/doy/spreadsheet-parsexlsx/pulls) and [issues](https://github.com/doy/spreadsheet-parsexlsx/issues) have been submitted since that time, so the
 module appears to be important for many.
 
 
